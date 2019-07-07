@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://zoey686.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Test2s on My New Hugo Site</title>
+    <link>https://zoey686.github.io/test2/</link>
+    <description>Recent content in Test2s on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2019 13:51:01 +0800</lastBuildDate>
     
-	<atom:link href="https://zoey686.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zoey686.github.io/test2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,15 +26,6 @@ I like [zoey](https://zoey686.github.io) &amp;lsquo;I like zoey` `是1左边的�
 加入&amp;lt;
 
 未完。。。</description>
-    </item>
-    
-    <item>
-      <title>Blog</title>
-      <link>https://zoey686.github.io/test/blog/</link>
-      <pubDate>Sat, 06 Jul 2019 21:10:39 +0800</pubDate>
-      
-      <guid>https://zoey686.github.io/test/blog/</guid>
-      <description>my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog! my first blog!</description>
     </item>
     
   </channel>
