@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoey686</title>
-    <link>https://zoey686.github.io/</link>
-    <description>Recent content on Zoey686</description>
+    <title>Blog on Zoey686</title>
+    <link>https://zoey686.github.io/tags/blog/</link>
+    <description>Recent content in Blog on Zoey686</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2019 13:51:01 +0800</lastBuildDate>
     
-	<atom:link href="https://zoey686.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zoey686.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,15 +36,6 @@ Markdown 的扩展名为 .md 1.设置换行,加粗，斜体等用法 &amp;emsp;�
 &amp;emsp;3.data custom template
 &amp;emsp;4.layoutsa Website template file
 &amp;emsp;5.static store pictures and other resorces</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://zoey686.github.io/about/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      
-      <guid>https://zoey686.github.io/about/</guid>
-      <description>This is some static page where you can write about yourself.</description>
     </item>
     
   </channel>

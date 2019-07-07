@@ -3,40 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zoey686.github.io/test2/blog2/</loc>
+    <loc>https://zoey686.github.io/posts/test2/blog2/</loc>
     <lastmod>2019-07-07T13:51:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zoey686.github.io/test/blog/</loc>
+    <loc>https://zoey686.github.io/posts/test/blog/</loc>
     <lastmod>2019-07-06T21:10:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zoey686.github.io/categories/</loc>
+    <loc>https://zoey686.github.io/about/</loc>
+    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zoey686.github.io/tags/blog/</loc>
+    <lastmod>2019-07-07T13:51:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zoey686.github.io/</loc>
+    <loc>https://zoey686.github.io/posts/</loc>
     <lastmod>2019-07-07T13:51:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://zoey686.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zoey686.github.io/test2/</loc>
     <lastmod>2019-07-07T13:51:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zoey686.github.io/test/</loc>
-    <lastmod>2019-07-06T21:10:39+08:00</lastmod>
+    <loc>https://zoey686.github.io/</loc>
+    <lastmod>2019-07-07T13:51:01+08:00</lastmod>
     <priority>0</priority>
   </url>
   
