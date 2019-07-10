@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zoey686</title>
+    <title>破军</title>
     <link>https://zoey686.github.io/</link>
-    <description>Recent content on Zoey686</description>
+    <description>Recent content on 破军</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 07 Jul 2019 13:51:01 +0800</lastBuildDate>
@@ -22,15 +22,15 @@
 Markdown 的扩展名为 .md 1.设置换行,加粗，斜体等用法 &amp;emsp;换行：使用&amp;lt;br&amp;gt; 或者 两个回车
 &amp;emsp;标题：#H1# &amp;emsp;字体大小：使用&amp;lt;font size=5&amp;gt; &amp;lt;font&amp;gt; 5 &amp;emsp;加粗：** ** &amp;emsp; 加粗 &amp;emsp;斜体：* * &amp;emsp; 斜体 &amp;emsp;删除线：~~ ~~ &amp;emsp; 删除线 &amp;emsp;缩进 &amp;amp;emsp\;
 
-2.超文本 &amp;emsp;I like [zoey](https://zoey686.github.io) &amp;emsp;I like zoey 3.引用内容 &amp;emsp;加入&amp;gt; &amp;emsp;&amp;gt;引用内容 未完。。。 返回</description>
+2.超文本 &amp;emsp;I like [zoey](https://zoey686.github.io) &amp;emsp;I like zoey 未完。。。 返回</description>
     </item>
     
     <item>
       <title>Ubuntu搭建blog的一些指令</title>
-      <link>https://zoey686.github.io/posts/test/blog/</link>
+      <link>https://zoey686.github.io/posts/test1/blog/</link>
       <pubDate>Sat, 06 Jul 2019 21:10:39 +0800</pubDate>
       
-      <guid>https://zoey686.github.io/posts/test/blog/</guid>
+      <guid>https://zoey686.github.io/posts/test1/blog/</guid>
       <description>1.install git and hugo  &amp;emsp;sudo apt install git &amp;emsp;sudo apt install hugo 2.git set user&amp;rsquo;s information  &amp;emsp;git config &amp;ndash;global user.name &amp;ldquo;zoey686&amp;rdquo; &amp;emsp;git confit &amp;ndash;global user.email &amp;ldquo;邮箱&amp;rdquo; &amp;emsp;git config &amp;ndash;list // show user.name and user.email 2.create a site &amp;emsp;mkdir gitFile //create a folder to store the site &amp;emsp;hugo new site mybolg 3.mybolg generated folder &amp;emsp;1.archetypes Header format
 &amp;emsp;2.content blog&amp;rsquo;s artical file
 &amp;emsp;3.data custom template
@@ -45,6 +45,15 @@ Markdown 的扩展名为 .md 1.设置换行,加粗，斜体等用法 &amp;emsp;�
       
       <guid>https://zoey686.github.io/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zoey686.github.io/posts/test3/blog3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zoey686.github.io/posts/test3/blog3/</guid>
+      <description></description>
     </item>
     
   </channel>
